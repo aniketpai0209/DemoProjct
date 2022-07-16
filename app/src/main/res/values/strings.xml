@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AniSpec</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="anime_recommendations">Anime Recommendations</string>
+    <string name="recommendations">RECOMMENDATIONS</string>
+</resources>
